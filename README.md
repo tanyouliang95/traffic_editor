@@ -1,6 +1,8 @@
 ![](https://github.com/osrf/traffic_editor/workflows/build/badge.svg)
 ![](https://github.com/osrf/traffic_editor/workflows/style/badge.svg)
 
+![](https://media.giphy.com/media/7JBpB8DzVG71nJRAMP/giphy.gif)
+
 # traffic\_editor
 
 Welcome!
